@@ -1,0 +1,7 @@
+syntax = "proto3";
+package earthproto.earthproto;
+
+option go_package = "earthProto/x/earthproto/types";
+
+// Msg defines the Msg service.
+service Msg {}
